@@ -19225,4 +19225,17 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	mollucotta: {
+		num: 1000000,
+		name: "Mollucotta",
+		types: ["Grass"],
+		genderRatio: {M: 0.875, F: 0.125},
+		baseStats: {hp: 55, atk: 40, def: 70, spa: 55, spd: 55, spe: 35},
+		abilities: {0: "Overgrow", H: "Mega Launcher"},
+		heightm: 0.6,
+		weightkg: 13.2,
+		color: "Green",
+		evos: ["Expursum"],
+		eggGroups: ["Amorphous", "Grass"],
+	},
 };
