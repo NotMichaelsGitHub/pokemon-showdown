@@ -6270,4 +6270,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	mollucotta: {
+		tier: "LC",
+	},
 };
