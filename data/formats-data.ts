@@ -6270,7 +6270,31 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
-	mollucotta: {
+   mollucotta: {
 		tier: "LC",
-	},
+   },
+   expursum: {
+		tier: "NFE",
+   },
+   gastronaut: {
+		tier: "OU",
+   },
+   quetzalil: {
+		tier: "LC",
+   },
+   quexcell: {
+		tier: "NFE",
+   },
+   quetzillian: {
+		tier: "OU",
+   },
+   porsite: {
+		tier: "LC",
+   },
+   cettoekko: {
+		tier: "NFE",
+   },
+   bathygigas: {
+		tier: "OU",
+   },
 };

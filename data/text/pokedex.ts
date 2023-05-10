@@ -3766,5 +3766,29 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	},
    mollucotta: {
    	name: "Mollucotta",
-   }
+   },
+   expursum: {
+   	name: "Expursum",
+   },
+   gastronaut: {
+   	name: "Gastronaut",
+   },
+   quetzalil: {
+   	name: "Quetzalil",
+   },
+   quexcell: {
+   	name: "Quexcell",
+   },
+   quetzillian: {
+   	name: "Quetzillian",
+   },
+   porsite: {
+   	name: "Porsite",
+   },
+   cettoekko: {
+   	name: "Cettoekko",
+   },
+   bathygigas: {
+   	name: "Quetzillian",
+   },
 };
